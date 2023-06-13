@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@types/whatwg-fetch": "^0.0.33"
+  }
+}
